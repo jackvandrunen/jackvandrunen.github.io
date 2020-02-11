@@ -1,0 +1,78 @@
+==================================================================
+https://keybase.io/jackv
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jackv.co
+  * I am jackv (https://keybase.io/jackv) on keybase.
+  * I have a public key with fingerprint 6559 3C81 0258 FBFD 88CE  1DE0 58C0 33FA 62B7 9F60
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.9"
+        },
+        "key": {
+            "fingerprint": "65593c810258fbfd88ce1de058c033fa62b79f60",
+            "host": "keybase.io",
+            "key_id": "58C033FA62B79F60",
+            "uid": "04d66dfa6d55fb71e0828864c3212600",
+            "username": "jackv"
+        },
+        "merkle_root": {
+            "ctime": 1450049737,
+            "hash": "d457f83c5bccc2e1d98f725119502ff76bf19bb4ad3447e034ea342c577dc471d966b02f900658a8493a6fa884898fbb79f2290732b8d7ddede4ae3476eaff17",
+            "seqno": 333889
+        },
+        "service": {
+            "hostname": "jackv.co",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1450049873,
+    "expire_in": 157680000,
+    "prev": "6e4222eba3e01833470954fa2b8c025c6bc756b180e568aecd1ba2182b49b8ca",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFVkn1olVUcx+/dVt2UpkKmkOV4nCY0785z3p9hUcuGln8kQhRll/P23D1uPs/1
+ea5rL14KQmkpNYjhQDRk2FhQQYhBEoplQypYRRL4RynJpQn7o2SiFXTOzUjPX+fl
+c77n+/39zth9zbmmfPsZOXHt1/cn81//JnPPx/ltI55M9JDXNeKp/sjEVTeLxS7j
+dXl9ZkiKzBSjpC1OtCnuzNpuMR3egEmzKIktBYqsGHi1Doe7y2EUl01aSSOn5VFC
+AqS4DyDhoQw158r42gDCFUAoFBRKFoQUWMneJKve8arX0CxF2u4S/pTle56ksJsF
+PQ1+T+MAYE2ptkKakFAy3wAOOadYIehDChpgZtJbkXYK1TfgzO4yaV+/KaVJ0kis
+qpE79zEBAAcMMWtHZL32hsaEhRwpIpVS0HoPeMgg8f2AABiGjMrQD6TEQiOMmQEI
+G4EwVIQxrTCzPKXSkgEAlHDBcYAEDQXnmFsl6dJDGACGoOSaaW20wcIgzKgRYegz
+6z8zu+PE60IIcR7U3DodiJRxvl3Nbo9WVK5qlTSpJirpt7u91Wol63KJq0MVh71q
+ZOlfgSlTklGsbbtu76dv0TurwRnq8MxgJUpNKXIEYZQDO9xDZsA12WAIoZECGeBz
+ZM2DgOBQ2EjKNl5RqRih0ufAEMqFUdqXAvocShxYRPyfMbA+RdlKZlE5FtU9qfFq
+o/lVLbl8U+7uu5rch80tunfpf794fkUhN1Fb2De2Y7p9f/l4W8/Cmtbr2x8eLV65
++tlVf/mbF+cWjmx5ecO53/PPXWk9bRZtvDyja5+rVer8/OzuQnSz5ci3nf3LPmzu
+PnV08aE6f+Pg5fWye3brkgv1/YNH45m3fNK5fl953fQr+OmPnzCdfz/+UGFsuPDn
+N+HZZ8YvrbkxtXJj7rF3J/d+sumLv1Z/d35i0wcjJ+cOtN7s3XHp2Noz4y/Uv//p
+8MFlm1fmz24ZPLGcnNvw4h8fXV/7440L3dubc/cvOfzS+Ds/TOsV9dpXNJ66J0Oz
+F+cPtAc9xx9oHa3NbX5v8dZfHv309JctTdtODb/24OuTe9PVh6KThfqzj6TXTtTI
+8M9vo5n5qX8A
+=12En
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jackv
+
+==================================================================
+
+
